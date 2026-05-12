@@ -5,4 +5,4 @@ services:
     ports:
       - "5000:5000"
     environment:
-      - LT_LOAD_ONLY=en,es,fr,de,hi,ab,az,ru
+      - LT_LOAD_ONLY=en,es,fr,de,hi,ar,ab,zh,ru
